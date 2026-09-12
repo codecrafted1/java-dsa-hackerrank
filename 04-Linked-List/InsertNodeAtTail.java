@@ -1,7 +1,7 @@
 import java.io.*;
 //import java.util.*;
 
-public class Solution {
+public class InsertNodeAtTail {
 
     static class SinglyLinkedListNode {
         int data;
